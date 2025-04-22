@@ -5,7 +5,7 @@ Repo for organizing my notes in my process of studying for the IAAP WAS certific
 
 ### Domain One A: Guidelines, principles and techniques for meeting success criteria 
 
-1.The W3C Guidelines and Specifications 
+1. The W3C Guidelines and Specifications 
 2. European Accessibility Standard EN 301 549 
 
 ### Domain One B: Basic knowledge of programming 
@@ -16,31 +16,41 @@ Repo for organizing my notes in my process of studying for the IAAP WAS certific
 4. Simplify Events 
 5. Dynamic Content 
 6. Managing Focus 
-7. Managing State 
+7. Managing State
+   
 ### Domain One C: Create Interactive Controls/Widgets Based on Accessibility Best Practices 
 ### Domain One D: Using ARIA 
+
 1. Understanding Accessible Names and Descriptions 
 2. ARIA Authoring Practice Guide 
 3. Keyboard Interaction and Focus Management within Components 
 4. The Accessibility Tree and Its Impact on Users of Assistive Technology 
-5. WAI-ARIA Roles, States, and Properties 
+5. WAI-ARIA Roles, States, and Properties
+   
 ### Domain One E: Accessibility-supported technologies 
-1. Screen Readers 
+
+1. Screen Readers
+   
 ### Domain One F: Standard controls vs. custom controls 
+
 1. Standard Controls 
 Web Accessibility Specialist Body of Knowledge 2024
 International Association of Accessibility Professionals, A division of G3ict
-2. Custom Controls 
+2. Custom Controls
+    
 ### Domain One G: Single page applications 
+
 ### Domain One H: Strategies of persons with disabilities in using web solutions 
 (e.g., navigation of screen reader users, headings and landmarks, coping strategies, user
 preferred methods vs. website specific methods, using keyboard vs. mouse). 
+
 1. Users without Vision 
 2. Users with Low Vision 
 3. Users with Limited Reading Capacities 
 4. Users with Cognitive Disabilities 
 5. Users with Motor Disabilities 
-6. Users with Auditory Disabilities 
+6. Users with Auditory Disabilities
+ 
 ## Domain Two: Identify accessibility issues in web solutions 
 Domain Two A: Interoperability and compatibility issues 
 Domain Two B: Identifying guidelines and principles regarding issues 
