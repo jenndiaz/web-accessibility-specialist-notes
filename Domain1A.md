@@ -34,6 +34,20 @@ Under each principle there are guidelines, 13 in total. They provide the basic g
 - 	3.3 Input Assistance
 - 	4.1 Compatible
 
+### Success Criterion 
+The specific testable criteria. Has 3 levels of conformance A, AA, AA. 
+A: most base with the boradest impact 
+AA: Inforporates additional criteria that supports a wider context of users. The most often cited in legal reuirements, the standard most are going for. 
+AAA: Highest level, ensures contetnt is accessible for the widest range of users. Not always realistic and does not apply to all scenarios. 
+
+### Techniques 
+
+Sufficicent: reliable ways to meet SC. If sufficient techniques are implemnted, then you meet the SC. 
+
+Advisory: Suggested way to improve accessibility, very helpful to some users and may be needed by other users. Consider advisory and not sufficent due to: May not be sufficient alone, bay be based on technology that is not yet stable, may not be testable, provide realted accessibility beneifits but not directly related to the SC. Encouraged to meet all when approrpriate to meet the needs of the widest range of users.
+
+Failures: Things the cause accessibility barries and fair specific SC. Documented so authoers know what to avoid and evals can check. Does not meet WCAG 2.2 unless an alternative is provided without the failure. 
+
 ### Normative and non-normative information in WCAG 2.2.
 Normative = required for conformance. 
 Defines accessibility practices required for conformance and verification. Minimum to make websites accessible. 
@@ -42,3 +56,4 @@ Non-normative = never required for conformance, content identified as “informa
 Guidance and techniques for interpreting and confirming with the normative requirement. Changes more frequently than normative documents. 
 The main content of WCAG 2.2 is normative. Non-normative is the intro materials, appendixes, diagrams, examples, and notes. Advisory info to help interpret the guidelines but does not create requirements that impact conformance. 
 
+## Understand and Interpret ATAG 2.0
