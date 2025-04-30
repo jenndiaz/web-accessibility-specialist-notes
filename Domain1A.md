@@ -56,4 +56,34 @@ Non-normative = never required for conformance, content identified as “informa
 Guidance and techniques for interpreting and confirming with the normative requirement. Changes more frequently than normative documents. 
 The main content of WCAG 2.2 is normative. Non-normative is the intro materials, appendixes, diagrams, examples, and notes. Advisory info to help interpret the guidelines but does not create requirements that impact conformance. 
 
+## Understand and interpret WAI-ARIA 1.2
+### Understand the purpose and impact of WAI-ARIA 1.2. 
+###  Understand the WAI-ARIA 1.2 model of roles and properties.
+### Know when and why to use WAI-ARIA 1.2, and when to use standard HTML instead
+#### 5 rules of aria
+1. Don'y use aria, if you can use HTML instead
+2. Don't change native semantics
+3. All interactive aria roles need to be operable by a keyboard
+4. Don't use `role="presentation"` or `aria-hidden="true"` on visible focusable elements
+5. All interactive elements must have an accessible name
 ## Understand and Interpret ATAG 2.0
+## Understand and interpret EN 301 549
+“Harmonized” European Standard. Developed by 3 official European Standard Organizations CEN, CENELEC, and ETSI. Voluntary technical specifications for presumed conformity. Efficient way to show compliance, orgs are free to choose other technical solutions to fulfill legal obligations. 
+Originally developed for procurement of accessible products and services. 
+Currently being updated to support the European Accessibility Act (EAA) that will enter into effect on June 28th 2025. 
+Adopted outside of Europe as well. 
+
+### Know what kind of technologies are addressed by EN 301 549 
+ICT product and services. Broader than web a11y, includes things like hardware, software, support services as well as web, documents, and apps. 
+
+### Describe how WCAG is represented in EN 301 549 
+Intends to harmonize with WCAG in clauses 9, 10, 1. Current version references WCAG 2.1 SC A and AA as well as the non-normative W3C guidance on apply WCAG 2.0 to non-web.  
+
+### Understand the intent and scope of requirements in Annex A Table A1 that go beyond WCAG 
+Current version includes annex A table showing presumed conformance for website and apps of the Web Accessibility Directive covering public sector bodies.
+Annex A presents the relationship between the technical specifications and the web accessibility directions. 
+
+
+
+
+
