@@ -40,7 +40,7 @@ International Association of Accessibility Professionals, A division of G3ict
     
 ### Domain One G: Single page applications 
 
-### Domain One H: Strategies of persons with disabilities in using web solutions 
+### [Domain One H](/Domain1H.md): Strategies of persons with disabilities in using web solutions 
 (e.g., navigation of screen reader users, headings and landmarks, coping strategies, user
 preferred methods vs. website specific methods, using keyboard vs. mouse). 
 
