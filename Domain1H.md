@@ -4,6 +4,10 @@
 
 ## Define the terms “assistive technology” and “adaptive strategies”. 
 
+Adpative Strategies: configuring technology to meet a persons needs. Like adjusting colors, or text size. 
+
+Assistive Technology: Alternative input devices such as screen readers, voice inputs, or switch devices. 
+
 ## List different types of assistive technologies and adaptive strategies. 
 
 ## List types of disabilities and related accessibility needs. 
