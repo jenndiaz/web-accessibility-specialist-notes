@@ -58,6 +58,9 @@ The main content of WCAG 2.2 is normative. Non-normative is the intro materials,
 
 ## Understand and interpret WAI-ARIA 1.2
 ### Understand the purpose and impact of WAI-ARIA 1.2. 
+Fills in the gap between accessibility features of HTML. An HTML add on for name, role, and value properties. 
+Aria helps users with limited or no vision know what is happenning visually on the screen. 
+
 ###  Understand the WAI-ARIA 1.2 model of roles and properties.
 ### Know when and why to use WAI-ARIA 1.2, and when to use standard HTML instead
 #### 5 rules of aria
@@ -67,6 +70,13 @@ The main content of WCAG 2.2 is normative. Non-normative is the intro materials,
 4. Don't use `role="presentation"` or `aria-hidden="true"` on visible focusable elements
 5. All interactive elements must have an accessible name
 ## Understand and Interpret ATAG 2.0
+Prinicples web authoring tools should follow to faciliate creation of accessible web content. Involves promoting of their users to create accesibile content. If any part of a web application allows users to create web content then ATAG applies. 
+Part A
+Make the authoring tool user interface accessible 
+
+Part B
+Support the production of accessible content. Standard output of tool should be accessible. Users should be prompted to fix errors and given suggestions on how to do so. 
+
 ## Understand and interpret EN 301 549
 “Harmonized” European Standard. Developed by 3 official European Standard Organizations CEN, CENELEC, and ETSI. Voluntary technical specifications for presumed conformity. Efficient way to show compliance, orgs are free to choose other technical solutions to fulfill legal obligations. 
 Originally developed for procurement of accessible products and services. 
