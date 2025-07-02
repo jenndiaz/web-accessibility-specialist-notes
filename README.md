@@ -52,8 +52,8 @@ preferred methods vs. website specific methods, using keyboard vs. mouse).
 6. Users with Auditory Disabilities
  
 ## Domain Two: Identify accessibility issues in web solutions 
-Domain Two A: Interoperability and compatibility issues 
-Domain Two B: Identifying guidelines and principles regarding issues 
+### Domain Two A: Interoperability and compatibility issues 
+### Domain Two B: Identifying guidelines and principles regarding issues 
 1. Accessibility Target Level 
 2. Conformance Requirements 
 3. WCAG-EM 
