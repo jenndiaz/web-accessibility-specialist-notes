@@ -70,7 +70,8 @@ Aria helps users with limited or no vision know what is happenning visually on t
 4. Don't use `role="presentation"` or `aria-hidden="true"` on visible focusable elements
 5. All interactive elements must have an accessible name
 ## Understand and Interpret ATAG 2.0
-Prinicples web authoring tools should follow to faciliate creation of accessible web content. Involves promoting of their users to create accesibile content. If any part of a web application allows users to create web content then ATAG applies. 
+Prinicples web authoring tools should follow to faciliate creation of accessible web content. Involves promoting of their users to create accesibile content. If any part of a web application allows users to create web content then ATAG applies. Organized like WCAG with Principles, Guidelines and SC with 3 conformance levels, A, AA and AAA. Refers to WCAG 2.0. 
+
 Part A
 Make the authoring tool user interface accessible 
 
