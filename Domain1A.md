@@ -64,7 +64,7 @@ Aria helps users with limited or no vision know what is happenning visually on t
 ###  Understand the WAI-ARIA 1.2 model of roles and properties.
 ### Know when and why to use WAI-ARIA 1.2, and when to use standard HTML instead
 #### 5 rules of aria
-1. Don'y use aria, if you can use HTML instead
+1. Don't use aria, if you can use HTML instead
 2. Don't change native semantics
 3. All interactive aria roles need to be operable by a keyboard
 4. Don't use `role="presentation"` or `aria-hidden="true"` on visible focusable elements
@@ -88,7 +88,11 @@ Adopted outside of Europe as well.
 ICT product and services. Broader than web a11y, includes things like hardware, software, support services as well as web, documents, and apps. 
 
 ### Describe how WCAG is represented in EN 301 549 
-Intends to harmonize with WCAG in clauses 9, 10, 1. Current version references WCAG 2.1 SC A and AA as well as the non-normative W3C guidance on apply WCAG 2.0 to non-web.  
+Intends to harmonize with WCAG in clauses 9, 10, and 11. Current version references WCAG 2.1 SC A and AA as well as the non-normative W3C guidance on apply WCAG 2.0 to non-web.  Voluntary technical specifications for presumed conformity. A way to show compliance, organizations can choose other technical solutions to fullfil legal obligations. 
+
+Boardeder then just web accessibility. Includes hardware, software, support services, websites, documents, and apps. 
+
+Adopted outside of the EU including Mexico, Canada, and Kenya. 
 
 ### Understand the intent and scope of requirements in Annex A Table A1 that go beyond WCAG 
 Current version includes annex A table showing presumed conformance for website and apps of the Web Accessibility Directive covering public sector bodies.
