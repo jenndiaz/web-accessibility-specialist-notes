@@ -8,7 +8,7 @@ Repo for organizing my notes in my process of studying for the IAAP WAS certific
 1. The W3C Guidelines and Specifications 
 2. European Accessibility Standard EN 301 549 
 
-### Domain One B: Basic knowledge of programming 
+### [Domain One B](/Domain1B.md): Basic knowledge of programming 
 
 1. Support for JavaScript in Accessibility APIs and Assistive Technologies 
 2. Semantic HTML and Custom Controls 
@@ -38,7 +38,7 @@ Web Accessibility Specialist Body of Knowledge 2024
 International Association of Accessibility Professionals, A division of G3ict
 2. Custom Controls
     
-### Domain One G: Single page applications 
+### [Domain One G](/Domain1G.md): Single page applications 
 
 ### [Domain One H](/Domain1H.md): Strategies of persons with disabilities in using web solutions 
 (e.g., navigation of screen reader users, headings and landmarks, coping strategies, user
