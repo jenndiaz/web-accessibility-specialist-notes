@@ -19,7 +19,8 @@ Repo for organizing my notes in my process of studying for the IAAP WAS certific
 6. Managing Focus 
 7. Managing State
    
-### Domain One C: Create Interactive Controls/Widgets Based on Accessibility Best Practices 
+### [Domain One C](/Domain1C.md): Create Interactive Controls/Widgets Based on Accessibility Best Practices 
+
 ### Domain One D: Using ARIA 
 
 1. Understanding Accessible Names and Descriptions 
