@@ -2,6 +2,12 @@
 
 ## Five Rules of ARIA 
 
+1. Don't use aria, if you can use HTML instead
+2. Don't change native semantics
+All interactive aria roles need to be operable by a keyboard
+Don't use role="presentation" or aria-hidden="true" on visible focusable elements
+All interactive elements must have an accessible name
+
 ## Coding to Standards
 
 ## Techniques for providing accessible names and descriptions 
